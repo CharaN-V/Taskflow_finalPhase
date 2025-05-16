@@ -1,4 +1,5 @@
 # Taskflow_finalPhase
+All the screenshots are provided in the seperate document in the Blackboard.
 Frontend Architecture
 React with TypeScript: Modern, type-safe frontend development
 Vite: Fast development server and build tool
@@ -81,3 +82,5 @@ JWT authentication
 Secure password handling
 Data access controls
 Input validation
+
+
